@@ -13,23 +13,5 @@ public class mascota {
     }
 
 
-/// herencia
-
-    private String raza;
-
-    public mascota(String nombre, int edad, String raza) {
-        this.nombre = nombre;
-        this.edad = edad;
-        this.raza = raza;
-    }
-
-    public void mostPrro (){
-        mostrarinf();
-        System.out.println("raza: " +raza);
-    }
-
-
-
-
 
 }
